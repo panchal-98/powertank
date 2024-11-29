@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:12:6:lcd_init	8	static
+../Core/Src/lcd.c:40:6:lcd_write	16	static
+../Core/Src/lcd.c:131:6:lcd_puts	16	static
+../Core/Src/lcd.c:245:6:clr_select	8	static
+../Core/Src/lcd.c:254:6:lcd_clear	8	static
+../Core/Src/lcd.c:266:6:default_lcd_print_page1	8	static
+../Core/Src/lcd.c:273:6:default_lcd_print_page2	8	static
+../Core/Src/lcd.c:283:6:default_lcd_print_page3	8	static
